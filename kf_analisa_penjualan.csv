@@ -1,0 +1,501 @@
+transaction_id,tanggal_transaksi,branch_id,branch_name,kota,provinsi,rating_cabang,customer_name,product_id,product_name,harga_asli,discount_percentage,persentase_gross_laba,penjualan_bersih,laba_bersih
+TRX7246418,17/05/2021,82832,Kimia Farma - Apotek,Purwakarta,Jawa Barat,"4,7",Christopher Callahan,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,"0,04","0,4",491520,26051122481
+TRX2428067,21/09/2020,76170,Kimia Farma - Apotek,Tangerang,Banten,"4,3",Marc Fischer,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,"0,04","0,4",491520,26051122481
+TRX4062033,18/04/2021,49260,Kimia Farma - Apotek,Ambon,Maluku,"4,2",Angela Johnson,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,"0,04","0,4",491520,26051122481
+TRX6316857,06/08/2022,21490,Kimia Farma - Apotek,Jayapura,Papua,"4,1",Debbie Vaughn,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,"0,04","0,4",491520,26051122481
+TRX5668445,11/05/2021,69060,Kimia Farma - Apotek,Ciamis,Jawa Barat,"4,4",Claudia James,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,"0,04","0,4",491520,26051122481
+TRX1152024,05/09/2020,35930,Kimia Farma - Apotek,Tasikmalaya,Jawa Barat,"4,1",Autumn Barry,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,"0,04","0,4",491520,26051122481
+TRX5233983,26/01/2022,45072,Kimia Farma - Apotek,Surabaya,Jawa Timur,"4,7",Jennifer Dennis,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,"0,04","0,4",491520,26051122481
+TRX7582922,24/12/2023,99735,Kimia Farma - Apotek,Banda Aceh,Aceh,"4,1",Matthew Peterson,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,"0,04","0,4",491520,26051122481
+TRX5693869,12/05/2020,43007,Kimia Farma - Apotek,Ciamis,Jawa Barat,4,Mary Grant,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,"0,04","0,4",491520,26051122481
+TRX3967951,02/07/2023,28557,Kimia Farma - Apotek,Jambi,Jambi,"4,5",Rhonda Miller,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,"0,04","0,4",491520,26051122481
+TRX9803912,13/05/2021,45642,Kimia Farma - Apotek,Cikampek,Jawa Barat,"4,7",Jennifer Jenkins,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,"0,04","0,4",491520,26051122481
+TRX4742164,10/11/2023,21930,Kimia Farma - Apotek,Solok,Sumatera Barat,"4,9",David Bowers,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,"0,04","0,4",491520,26051122481
+TRX6870218,23/08/2021,47927,Kimia Farma - Apotek,Jambi,Jambi,"4,7",Nicole Hayes,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,"0,04","0,4",491520,26051122481
+TRX5333197,05/11/2020,60964,Kimia Farma - Apotek,Pariaman,Sumatera Barat,"4,3",Deanna Dickerson,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,"0,04","0,4",491520,26051122481
+TRX2063986,23/10/2023,73804,Kimia Farma - Apotek,Kendari,Sulawesi Tenggara,"4,3",Mr. Matthew Warren,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,"0,04","0,4",491520,26051122481
+TRX7922368,30/03/2021,62312,Kimia Farma - Apotek,Cianjur,Jawa Barat,"4,5",Bobby Hudson,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,"0,04","0,4",491520,26051122481
+TRX9053607,14/04/2021,75046,Kimia Farma - Apotek,Denpasar,Bali,"4,4",Jerry Roberts,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,"0,04","0,4",491520,26051122481
+TRX1159366,16/09/2020,58928,Kimia Farma - Apotek,Solok,Sumatera Barat,4,Cody Fuller,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,"0,04","0,4",491520,26051122481
+TRX9751260,25/02/2023,63673,Kimia Farma - Apotek,Sorong,Papua Barat,"4,8",Debra Diaz,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,"0,04","0,4",491520,26051122481
+TRX8066197,29/08/2023,26025,Kimia Farma - Apotek,Kotamobagu,Sulawesi Utara,"4,8",Jorge Palmer,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,"0,04","0,4",491520,26051122481
+TRX5047169,04/11/2023,98581,Kimia Farma - Apotek,Subang,Jawa Barat,"4,5",Cassandra Cross,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,"0,04","0,4",491520,26051122481
+TRX9173715,03/04/2022,12558,Kimia Farma - Apotek,Kendari,Sulawesi Tenggara,"4,4",Thomas Ward,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,"0,04","0,4",491520,26051122481
+TRX1911013,04/12/2022,50288,Kimia Farma - Apotek,Ternate,Maluku Utara,"4,4",Andrew Dillon,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,"0,04","0,4",491520,26051122481
+TRX9843596,01/10/2022,36256,Kimia Farma - Apotek,Sukabumi,Jawa Barat,"4,1",Morgan Torres,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,"0,04","0,4",491520,26051122481
+TRX1160787,05/03/2021,67859,Kimia Farma - Apotek,Karawang,Jawa Barat,"4,5",Nicholas Lopez,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,"0,04","0,4",491520,26051122481
+TRX6806967,08/07/2022,82202,Kimia Farma - Apotek,Jambi,Jambi,"4,1",Erin Little,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,"0,04","0,4",491520,26051122481
+TRX9462816,20/07/2021,12560,Kimia Farma - Apotek,Padang Sidempuan,Sumatera Utara,"4,4",Kyle Williams,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,"0,04","0,4",491520,26051122481
+TRX2220149,24/12/2022,24789,Kimia Farma - Apotek,Mataram,Nusa Tenggara Barat,"4,2",Justin Jones,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,"0,04","0,4",491520,26051122481
+TRX9689604,08/09/2020,13935,Kimia Farma - Apotek,Tebing Tinggi,Sumatera Utara,"4,5",Rachel Wells,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,"0,04","0,4",491520,26051122481
+TRX9884060,27/06/2020,65584,Kimia Farma - Apotek,Semarang,Jawa Tengah,5,Michael Novak,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,"0,04","0,4",491520,26051122481
+TRX5078459,13/02/2023,85280,Kimia Farma - Apotek,Banda Aceh,Aceh,4,Kristin Ruiz,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,"0,04","0,4",491520,26051122481
+TRX5301916,31/03/2023,61185,Kimia Farma - Apotek,Sibolga,Sumatera Utara,"4,4",Rachel Fuller,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,"0,04","0,4",491520,26051122481
+TRX1937686,08/06/2021,27840,Kimia Farma - Apotek,Denpasar,Bali,"4,3",Allison Allen,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,"0,04","0,4",491520,26051122481
+TRX3670814,07/06/2021,40222,Kimia Farma - Apotek,Purwokerto,Jawa Tengah,"4,1",Christopher Wood,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,"0,04","0,4",491520,26051122481
+TRX1747393,08/10/2022,17469,Kimia Farma - Apotek,Lubuklinggau,Sumatera Selatan,"3,9",Suzanne Gutierrez,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,"0,04","0,4",491520,26051122481
+TRX3492865,08/05/2022,48130,Kimia Farma - Apotek,Tasikmalaya,Jawa Barat,"4,7",Bryan Moreno,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,"0,04","0,4",491520,26051122481
+TRX9861820,24/04/2020,73804,Kimia Farma - Apotek,Kendari,Sulawesi Tenggara,"4,3",George Peck,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,"0,04","0,4",491520,26051122481
+TRX9599566,27/07/2023,65948,Kimia Farma - Apotek,Tarakan,Kalimantan Utara,"4,4",April Summers,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,"0,04","0,4",491520,26051122481
+TRX8024214,12/02/2021,74753,Kimia Farma - Apotek,Magelang,Jawa Tengah,"4,6",Tammy Black,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,"0,04","0,4",491520,26051122481
+TRX9654415,18/01/2021,12406,Kimia Farma - Apotek,Bitung,Sulawesi Utara,"4,2",Jonathan Herman,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,"0,04","0,4",491520,26051122481
+TRX3182354,30/09/2022,41183,Kimia Farma - Apotek,Gorontalo,Gorontalo,"4,8",Jaclyn Hill,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,"0,04","0,4",491520,26051122481
+TRX3033874,03/09/2023,70395,Kimia Farma - Apotek,Medan,Sumatera Utara,"4,6",Nicholas Heath,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,"0,04","0,4",491520,26051122481
+TRX3823931,11/09/2022,80176,Kimia Farma - Apotek,Dumai,Riau,"4,7",Sergio Garcia,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,"0,04","0,4",491520,26051122481
+TRX1383347,03/04/2020,73158,Kimia Farma - Apotek,Tomohon,Sulawesi Utara,"4,7",Melissa Gross,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,"0,04","0,4",491520,26051122481
+TRX3866485,13/09/2020,69761,Kimia Farma - Apotek,Subang,Jawa Barat,"4,9",Christopher Griffith,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,"0,04","0,4",491520,26051122481
+TRX7698521,16/12/2023,58928,Kimia Farma - Apotek,Solok,Sumatera Barat,4,Marissa Oneal,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,"0,04","0,4",491520,26051122481
+TRX2991509,29/09/2020,65315,Kimia Farma - Apotek,Semarang,Jawa Tengah,4,Daniel Knight,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,"0,04","0,4",491520,26051122481
+TRX2780415,13/08/2022,66525,Kimia Farma - Apotek,Sibolga,Sumatera Utara,"4,7",Benjamin Mills,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,"0,04","0,4",491520,26051122481
+TRX5770338,19/07/2023,88089,Kimia Farma - Apotek,Indramayu,Jawa Barat,"4,1",Julie Flores,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,"0,04","0,4",491520,26051122481
+TRX3169600,09/11/2023,59559,Kimia Farma - Apotek,Yogyakarta,DI Yogyakarta,"4,5",Andrew Peterson,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,"0,04","0,4",491520,26051122481
+TRX6016673,26/12/2021,41131,Kimia Farma - Apotek,Yogyakarta,DI Yogyakarta,"4,8",Jasmin Wood,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,"0,04","0,4",491520,26051122481
+TRX7450599,23/09/2020,86667,Kimia Farma - Apotek,Bekasi,Jawa Barat,"4,6",Benjamin Johnson,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,"0,04","0,4",491520,26051122481
+TRX3459292,28/11/2021,98041,Kimia Farma - Apotek,Tomohon,Sulawesi Utara,"4,5",Rachel Bennett,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,"0,04","0,4",491520,26051122481
+TRX1852358,04/06/2021,84922,Kimia Farma - Apotek,Tasikmalaya,Jawa Barat,"4,1",Diana Goodwin,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,"0,04","0,4",491520,26051122481
+TRX7669421,24/05/2021,72693,Kimia Farma - Apotek,Jakarta,DKI Jakarta,"4,7",Scott Evans,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,"0,04","0,4",491520,26051122481
+TRX2175935,05/11/2020,69761,Kimia Farma - Apotek,Subang,Jawa Barat,"4,9",Rachel Perez DVM,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,"0,04","0,4",491520,26051122481
+TRX4861015,08/11/2021,24277,Kimia Farma - Apotek,Lhokseumawe,Aceh,"4,2",Nicole Wilson,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,"0,04","0,4",491520,26051122481
+TRX3912645,18/07/2020,47175,Kimia Farma - Apotek,Bekasi,Jawa Barat,"4,9",Jasmine Jackson,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,"0,04","0,4",491520,26051122481
+TRX6238707,03/11/2022,25572,Kimia Farma - Apotek,Bontang,Kalimantan Timur,"3,9",Terrence Olson,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,"0,04","0,4",491520,26051122481
+TRX5954189,17/02/2023,41131,Kimia Farma - Apotek,Yogyakarta,DI Yogyakarta,"4,8",Jack Hale,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,"0,04","0,4",491520,26051122481
+TRX1148810,07/03/2021,73569,Kimia Farma - Apotek,Madiun,Jawa Timur,"4,4",Julie Wilson,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,"0,04","0,4",491520,26051122481
+TRX7544241,05/06/2023,15235,Kimia Farma - Apotek,Payakumbuh,Sumatera Barat,"4,2",Ryan Turner,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,"0,04","0,4",491520,26051122481
+TRX1666930,29/05/2022,28557,Kimia Farma - Apotek,Jambi,Jambi,"4,5",Christina Mathews,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,"0,04","0,4",491520,26051122481
+TRX5499666,01/06/2022,85549,Kimia Farma - Apotek,Ciamis,Jawa Barat,4,Jessica Lee,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,"0,04","0,4",491520,26051122481
+TRX8132922,13/11/2023,92899,Kimia Farma - Apotek,Dumai,Riau,"4,7",Darlene Kennedy,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,"0,04","0,4",491520,26051122481
+TRX8691247,23/02/2020,29203,Kimia Farma - Apotek,Tasikmalaya,Jawa Barat,"4,3",Joshua Baker,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,"0,04","0,4",491520,26051122481
+TRX3265842,17/10/2020,84189,Kimia Farma - Apotek,Ciamis,Jawa Barat,5,Sara Perry,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,"0,04","0,4",491520,26051122481
+TRX9457881,05/03/2021,78158,Kimia Farma - Apotek,Palu,Sulawesi Tengah,"4,1",Jessica Gates,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,"0,04","0,4",491520,26051122481
+TRX8509843,01/03/2020,61185,Kimia Farma - Apotek,Sibolga,Sumatera Utara,"4,4",Edwin Davis,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,"0,04","0,4",491520,26051122481
+TRX2341129,14/03/2022,20505,Kimia Farma - Apotek,Cilacap,Jawa Tengah,"4,5",Rachel Whitaker,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,"0,04","0,4",491520,26051122481
+TRX8448216,26/06/2020,81651,Kimia Farma - Apotek,Bitung,Sulawesi Utara,"4,2",Summer Roth,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,"0,04","0,4",491520,26051122481
+TRX3174666,23/09/2021,17863,Kimia Farma - Apotek,Gorontalo,Gorontalo,"4,7",Courtney Shepherd,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,"0,04","0,4",491520,26051122481
+TRX5221869,11/11/2023,73710,Kimia Farma - Apotek,Probolinggo,Jawa Timur,4,Adam Luna,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,"0,04","0,4",491520,26051122481
+TRX9821710,28/07/2022,52060,Kimia Farma - Apotek,Sibolga,Sumatera Utara,"4,2",Robert Peters,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,"0,04","0,4",491520,26051122481
+TRX3572915,24/05/2023,42922,Kimia Farma - Apotek,Palangkaraya,Kalimantan Tengah,"4,1",Brian Mcfarland,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,"0,04","0,4",491520,26051122481
+TRX8034100,15/11/2021,14495,Kimia Farma - Apotek,Banjarmasin,Kalimantan Selatan,"4,8",Thomas Perez,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,"0,04","0,4",491520,26051122481
+TRX2967006,08/12/2021,87938,Kimia Farma - Apotek,Samarinda,Kalimantan Timur,"4,5",Amy Brandt,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,"0,04","0,4",491520,26051122481
+TRX4662458,27/04/2020,29922,Kimia Farma - Apotek,Purwokerto,Jawa Tengah,"3,9",Sydney Gutierrez,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,"0,04","0,4",491520,26051122481
+TRX3678735,23/05/2021,36256,Kimia Farma - Apotek,Sukabumi,Jawa Barat,"4,1",Oscar Valdez,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,"0,04","0,4",491520,26051122481
+TRX9458685,08/09/2023,73436,Kimia Farma - Apotek,Jambi,Jambi,"4,4",Stephanie Carter,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,"0,04","0,4",491520,26051122481
+TRX8246142,01/01/2021,30842,Kimia Farma - Apotek,Dumai,Riau,4,Justin Long,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,"0,04","0,4",491520,26051122481
+TRX4840961,10/03/2021,51463,Kimia Farma - Apotek,Ternate,Maluku Utara,"4,4",Robin Simpson,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,"0,04","0,4",491520,26051122481
+TRX4087575,13/05/2022,23248,Kimia Farma - Apotek,Bima,Nusa Tenggara Barat,"4,1",Jason Huff,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,"0,04","0,4",491520,26051122481
+TRX4751651,28/08/2021,54200,Kimia Farma - Apotek,Purwakarta,Jawa Barat,"3,9",Tyler Chen,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,"0,04","0,4",491520,26051122481
+TRX7001193,10/10/2021,34844,Kimia Farma - Apotek,Lubuklinggau,Sumatera Selatan,"4,1",Cristina Cole,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,"0,04","0,4",491520,26051122481
+TRX5299472,14/01/2023,59449,Kimia Farma - Apotek,Indramayu,Jawa Barat,"4,1",Katherine Young,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,"0,04","0,4",491520,26051122481
+TRX6329690,11/11/2021,80343,Kimia Farma - Apotek,Jakarta,DKI Jakarta,"4,5",Patrick Carter,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,"0,04","0,4",491520,26051122481
+TRX5022925,10/06/2021,81008,Kimia Farma - Apotek,Cilacap,Jawa Tengah,"4,8",Sharon Thomas,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,"0,04","0,4",491520,26051122481
+TRX1819586,20/06/2022,58132,Kimia Farma - Apotek,Padang Sidempuan,Sumatera Utara,"4,5",Alicia Wilson,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,"0,04","0,4",491520,26051122481
+TRX7155351,16/09/2020,27441,Kimia Farma - Apotek,Lhokseumawe,Aceh,5,Ronald Howell,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,"0,04","0,4",491520,26051122481
+TRX9519001,23/10/2023,36953,Kimia Farma - Apotek,Cilacap,Jawa Tengah,5,Sherry Mack,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,"0,04","0,4",491520,26051122481
+TRX6030577,05/07/2020,73625,Kimia Farma - Apotek,Kotamobagu,Sulawesi Utara,"4,9",Nancy Guerrero,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,"0,04","0,4",491520,26051122481
+TRX1038605,03/12/2023,25432,Kimia Farma - Apotek,Cirebon,Jawa Barat,"4,2",Tanya Lawson,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,"0,04","0,4",491520,26051122481
+TRX9141033,24/03/2023,49758,Kimia Farma - Apotek,Pematangsiantar,Sumatera Utara,"4,7",Elizabeth Powell,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,"0,04","0,4",491520,26051122481
+TRX1389841,08/02/2021,48617,Kimia Farma - Apotek,Tasikmalaya,Jawa Barat,"4,3",Jacob Anderson,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,"0,04","0,4",491520,26051122481
+TRX7396209,17/11/2021,16339,Kimia Farma - Apotek,Subang,Jawa Barat,"4,7",Amber Ramsey,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,"0,04","0,4",491520,26051122481
+TRX6906361,28/01/2022,23248,Kimia Farma - Apotek,Bima,Nusa Tenggara Barat,"4,1",Elizabeth Thompson,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,"0,04","0,4",491520,26051122481
+TRX3390466,05/10/2022,35019,Kimia Farma - Apotek,Banjarmasin,Kalimantan Selatan,5,Patricia Morrow,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,"0,04","0,4",491520,26051122481
+TRX8234018,14/08/2022,28844,Kimia Farma - Apotek,Indramayu,Jawa Barat,"4,1",Garrett Salas,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,"0,04","0,4",491520,26051122481
+TRX4093521,28/12/2021,47927,Kimia Farma - Apotek,Jambi,Jambi,"4,7",William Medina,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,"0,04","0,4",491520,26051122481
+TRX2052994,07/10/2020,92076,Kimia Farma - Apotek,Batam,Kepulauan Riau,4,Thomas Ellis,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,"0,04","0,4",491520,26051122481
+TRX8879002,21/03/2020,62913,Kimia Farma - Apotek,Palembang,Sumatera Selatan,"4,5",Joseph Brown,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,"0,04","0,4",491520,26051122481
+TRX8246946,31/03/2022,58928,Kimia Farma - Apotek,Solok,Sumatera Barat,4,Dennis Bell,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,"0,04","0,4",491520,26051122481
+TRX1054883,01/05/2022,60481,Kimia Farma - Apotek,Pekanbaru,Riau,"4,1",Andrew Clark,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,"0,04","0,4",491520,26051122481
+TRX2484597,13/05/2021,96462,Kimia Farma - Apotek,Semarang,Jawa Tengah,"4,1",Jesus Gibson,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,"0,04","0,4",491520,26051122481
+TRX1757196,21/05/2020,24913,Kimia Farma - Apotek,Bekasi,Jawa Barat,"4,2",Richard Taylor,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,"0,04","0,4",491520,26051122481
+TRX4247349,09/05/2022,73436,Kimia Farma - Apotek,Jambi,Jambi,"4,4",Matthew Perkins,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,12","0,2",5632,26051122481
+TRX3030350,06/01/2021,61835,Kimia Farma - Apotek,Tasikmalaya,Jawa Barat,"4,9",Kathleen Matthews,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,12","0,2",5632,26051122481
+TRX7897960,11/08/2023,35572,Kimia Farma - Apotek,Purwakarta,Jawa Barat,"4,6",Bridget Fields,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,12","0,2",5632,26051122481
+TRX4786178,21/06/2020,14756,Kimia Farma - Apotek,Ciamis,Jawa Barat,"4,3",Kimberly Martin,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,12","0,2",5632,26051122481
+TRX2749072,01/05/2023,35746,Kimia Farma - Apotek,Surabaya,Jawa Timur,"4,5",Tina Goodman,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,12","0,2",5632,26051122481
+TRX5135008,27/11/2021,96172,Kimia Farma - Apotek,Tangerang,Banten,"3,9",James Lambert,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,12","0,2",5632,26051122481
+TRX5973924,14/10/2021,99950,Kimia Farma - Apotek,Pangkalpinang,Bangka Belitung,"4,6",Michelle Fischer,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,12","0,2",5632,26051122481
+TRX7736116,30/12/2020,81965,Kimia Farma - Apotek,Denpasar,Bali,"3,9",John Silva,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,12","0,2",5632,26051122481
+TRX7182316,12/06/2021,48880,Kimia Farma - Apotek,Subang,Jawa Barat,"4,8",Sarah Hoffman,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,12","0,2",5632,26051122481
+TRX4279242,25/11/2022,30291,Kimia Farma - Apotek,Manado,Sulawesi Utara,"4,9",James Bowman,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,12","0,2",5632,26051122481
+TRX4242325,12/01/2022,58132,Kimia Farma - Apotek,Padang Sidempuan,Sumatera Utara,"4,5",Sean Sloan,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,12","0,2",5632,26051122481
+TRX7884507,02/06/2023,43007,Kimia Farma - Apotek,Ciamis,Jawa Barat,4,Christopher Ellis,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,12","0,2",5632,26051122481
+TRX3939667,10/12/2020,65315,Kimia Farma - Apotek,Semarang,Jawa Tengah,4,Gregory May,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,12","0,2",5632,26051122481
+TRX1550191,21/01/2021,24294,Kimia Farma - Apotek,Payakumbuh,Sumatera Barat,"4,9",Bonnie Lutz,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,12","0,2",5632,26051122481
+TRX1848798,29/06/2022,15917,Kimia Farma - Apotek,Semarang,Jawa Tengah,"4,8",Wayne Krueger,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,12","0,2",5632,26051122481
+TRX8185934,04/12/2020,21247,Kimia Farma - Apotek,Karawang,Jawa Barat,"4,7",Alvin Smith,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,12","0,2",5632,26051122481
+TRX1363808,27/12/2023,57562,Kimia Farma - Apotek,Probolinggo,Jawa Timur,5,Mrs. Leslie Mora MD,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,12","0,2",5632,26051122481
+TRX8119520,01/01/2022,87583,Kimia Farma - Apotek,Surabaya,Jawa Timur,"4,6",Joann Moore,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,12","0,2",5632,26051122481
+TRX4284680,15/11/2022,37402,Kimia Farma - Apotek,Bekasi,Jawa Barat,"3,9",Melissa Farrell,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,12","0,2",5632,26051122481
+TRX9291627,27/06/2021,49606,Kimia Farma - Apotek,Palu,Sulawesi Tengah,"4,6",Christopher Adkins,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,12","0,2",5632,26051122481
+TRX1770536,27/04/2022,35955,Kimia Farma - Apotek,Mataram,Nusa Tenggara Barat,"4,2",Ryan Sawyer,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,12","0,2",5632,26051122481
+TRX8822992,20/10/2020,37946,Kimia Farma - Apotek,Cirebon,Jawa Barat,"4,1",Matthew Beltran,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,12","0,2",5632,26051122481
+TRX7879412,11/01/2021,60936,Kimia Farma - Apotek,Subang,Jawa Barat,"4,8",Mr. Gary Blanchard,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,12","0,2",5632,26051122481
+TRX4057981,25/06/2021,82636,Kimia Farma - Apotek,Palu,Sulawesi Tengah,"4,7",Elizabeth Miranda,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,12","0,2",5632,26051122481
+TRX5492999,03/05/2020,49927,Kimia Farma - Apotek,Surabaya,Jawa Timur,"4,1",Stephanie Boyd,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,12","0,2",5632,26051122481
+TRX5006596,14/07/2021,79455,Kimia Farma - Apotek,Mataram,Nusa Tenggara Barat,"4,8",Shannon Bradley,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,12","0,2",5632,26051122481
+TRX7513067,25/03/2022,66565,Kimia Farma - Apotek,Tasikmalaya,Jawa Barat,"3,9",Donald Smith,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,12","0,2",5632,26051122481
+TRX1507305,07/09/2021,73814,Kimia Farma - Apotek,Purwakarta,Jawa Barat,"4,7",David Phillips,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,12","0,2",5632,26051122481
+TRX7129837,12/09/2022,71367,Kimia Farma - Apotek,Dumai,Riau,"4,2",Samuel Sanchez,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,12","0,2",5632,26051122481
+TRX6764899,04/02/2023,79455,Kimia Farma - Apotek,Mataram,Nusa Tenggara Barat,"4,8",Nicole Haney,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,12","0,2",5632,26051122481
+TRX6305658,26/02/2021,13089,Kimia Farma - Apotek,Subang,Jawa Barat,"4,1",Christopher Mccormick,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,12","0,2",5632,26051122481
+TRX5052655,18/12/2023,66113,Kimia Farma - Apotek,Bekasi,Jawa Barat,4,Lindsey Howell,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,12","0,2",5632,26051122481
+TRX8842464,08/09/2021,52192,Kimia Farma - Apotek,Karawang,Jawa Barat,"4,2",Tina Scott,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,12","0,2",5632,26051122481
+TRX5958563,25/05/2021,61880,Kimia Farma - Apotek,Sibolga,Sumatera Utara,4,Andrew Clark,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,12","0,2",5632,26051122481
+TRX1033511,19/07/2022,47175,Kimia Farma - Apotek,Bekasi,Jawa Barat,"4,9",Kelly Maddox,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,12","0,2",5632,26051122481
+TRX6742267,02/11/2021,47927,Kimia Farma - Apotek,Jambi,Jambi,"4,7",Jessica Howell,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,12","0,2",5632,26051122481
+TRX1392115,05/12/2020,36450,Kimia Farma - Apotek,Indramayu,Jawa Barat,"4,5",Charles Miller,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,12","0,2",5632,26051122481
+TRX6204665,12/02/2021,63673,Kimia Farma - Apotek,Sorong,Papua Barat,"4,8",Jason Lambert,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,12","0,2",5632,26051122481
+TRX4138143,07/11/2020,36450,Kimia Farma - Apotek,Indramayu,Jawa Barat,"4,5",Mary Benton,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,12","0,2",5632,26051122481
+TRX7587559,07/12/2020,61835,Kimia Farma - Apotek,Tasikmalaya,Jawa Barat,"4,9",Laura Roberts,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,12","0,2",5632,26051122481
+TRX2241631,12/03/2021,39160,Kimia Farma - Apotek,Garut,Jawa Barat,"4,5",Erica Watts,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,12","0,2",5632,26051122481
+TRX2767622,26/12/2023,61804,Kimia Farma - Apotek,Padang Sidempuan,Sumatera Utara,"4,4",Lisa Beck,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,12","0,2",5632,26051122481
+TRX3137065,11/04/2022,89507,Kimia Farma - Apotek,Bitung,Sulawesi Utara,"4,2",Jason Spencer,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,12","0,2",5632,26051122481
+TRX2948607,03/03/2022,83742,Kimia Farma - Apotek,Pematangsiantar,Sumatera Utara,"4,8",Derrick Flores,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,12","0,2",5632,26051122481
+TRX1076831,02/04/2020,35930,Kimia Farma - Apotek,Tasikmalaya,Jawa Barat,"4,1",Katherine Kent,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,12","0,2",5632,26051122481
+TRX6593992,11/11/2022,36256,Kimia Farma - Apotek,Sukabumi,Jawa Barat,"4,1",Joshua Poole,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,12","0,2",5632,26051122481
+TRX3813809,18/03/2022,95134,Kimia Farma - Apotek,Yogyakarta,DI Yogyakarta,"4,2",Elizabeth Andersen,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,12","0,2",5632,26051122481
+TRX8607023,11/03/2022,99950,Kimia Farma - Apotek,Pangkalpinang,Bangka Belitung,"4,6",Timothy Townsend,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,12","0,2",5632,26051122481
+TRX3424944,21/04/2021,87583,Kimia Farma - Apotek,Surabaya,Jawa Timur,"4,6",Leslie Schneider,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,12","0,2",5632,26051122481
+TRX3279490,11/02/2022,63103,Kimia Farma - Apotek,Pematangsiantar,Sumatera Utara,5,Christopher Jackson,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,12","0,2",5632,26051122481
+TRX2565584,03/02/2022,59220,Kimia Farma - Apotek,Purwokerto,Jawa Tengah,"4,2",Jennifer Mack,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,12","0,2",5632,26051122481
+TRX5636254,07/12/2022,12333,Kimia Farma - Apotek,Tarakan,Kalimantan Utara,"4,6",Reginald Moran,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,12","0,2",5632,26051122481
+TRX9322519,06/02/2020,90214,Kimia Farma - Apotek,Pontianak,Kalimantan Barat,"4,2",Mrs. Janet Bishop MD,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,12","0,2",5632,26051122481
+TRX9220480,10/12/2022,31365,Kimia Farma - Apotek,Cirebon,Jawa Barat,"4,4",Kristen Wilson,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,12","0,2",5632,26051122481
+TRX9391198,28/11/2022,35836,Kimia Farma - Apotek,Malang,Jawa Timur,"4,5",Joshua Sandoval,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,12","0,2",5632,26051122481
+TRX2448110,13/02/2022,36671,Kimia Farma - Apotek,Deli Serdang,Sumatera Utara,"4,9",Elizabeth Mccarthy,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,12","0,2",5632,26051122481
+TRX3057333,08/03/2022,70985,Kimia Farma - Apotek,Manado,Sulawesi Utara,"4,3",Jared Vincent,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,12","0,2",5632,26051122481
+TRX3768434,20/06/2020,97507,Kimia Farma - Apotek,Pekanbaru,Riau,"4,1",Teresa Bailey,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,12","0,2",5632,26051122481
+TRX7433853,18/05/2022,49902,Kimia Farma - Apotek,Tasikmalaya,Jawa Barat,"4,2",Mary Jacobson,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,12","0,2",5632,26051122481
+TRX6936784,23/05/2022,30282,Kimia Farma - Apotek,Ciamis,Jawa Barat,"4,4",Anna Ho,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,12","0,2",5632,26051122481
+TRX5682594,19/07/2021,94165,Kimia Farma - Apotek,Karawang,Jawa Barat,"4,6",Ashley Torres,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,12","0,2",5632,26051122481
+TRX7801128,20/09/2020,37602,Kimia Farma - Apotek,Garut,Jawa Barat,"4,5",Ethan Hernandez,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,12","0,2",5632,26051122481
+TRX7353078,13/03/2021,82315,Kimia Farma - Apotek,Bogor,Jawa Barat,"4,6",Veronica Franklin,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,12","0,2",5632,26051122481
+TRX7259767,21/06/2021,83589,Kimia Farma - Apotek,Cianjur,Jawa Barat,"4,6",Samantha Hines,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,12","0,2",5632,26051122481
+TRX2969122,21/05/2021,62312,Kimia Farma - Apotek,Cianjur,Jawa Barat,"4,5",April Miller,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,12","0,2",5632,26051122481
+TRX1160498,08/05/2022,20566,Kimia Farma - Apotek,Lhokseumawe,Aceh,4,Jennifer Glover,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,12","0,2",5632,26051122481
+TRX3816770,07/02/2023,28053,Kimia Farma - Apotek,Semarang,Jawa Tengah,"4,1",Michelle Butler,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,12","0,2",5632,26051122481
+TRX3330425,26/02/2021,25624,Kimia Farma - Apotek,Semarang,Jawa Tengah,"4,3",Crystal Brooks,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,12","0,2",5632,26051122481
+TRX8085391,06/09/2022,31706,Kimia Farma - Apotek,Cirebon,Jawa Barat,"4,1",Bryan Sanders,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,12","0,2",5632,26051122481
+TRX7141729,03/03/2023,57365,Kimia Farma - Apotek,Tarakan,Kalimantan Utara,"4,2",Laura Benton,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,12","0,2",5632,26051122481
+TRX4321074,03/02/2020,95971,Kimia Farma - Apotek,Banjarmasin,Kalimantan Selatan,"4,2",Cynthia Freeman,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,12","0,2",5632,26051122481
+TRX2525058,13/10/2022,85014,Kimia Farma - Apotek,Balikpapan,Kalimantan Timur,4,Tina Robinson,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,12","0,2",5632,26051122481
+TRX7921314,27/07/2021,48997,Kimia Farma - Apotek,Padang,Sumatera Barat,"4,2",James Johnson,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,12","0,2",5632,26051122481
+TRX2010300,13/08/2020,82832,Kimia Farma - Apotek,Purwakarta,Jawa Barat,"4,7",Jenna Smith,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,12","0,2",5632,26051122481
+TRX3153586,18/01/2021,93702,Kimia Farma - Apotek,Jayapura,Papua,"4,3",Samantha Ryan,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,12","0,2",5632,26051122481
+TRX4097678,04/08/2020,32463,Kimia Farma - Apotek,Solok,Sumatera Barat,"3,9",Michael Friedman,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,12","0,2",5632,26051122481
+TRX3089835,20/06/2023,63103,Kimia Farma - Apotek,Pematangsiantar,Sumatera Utara,5,Ronald Mcfarland,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,12","0,2",5632,26051122481
+TRX8127045,09/06/2022,25390,Kimia Farma - Apotek,Cikampek,Jawa Barat,"4,9",Brian Lucero,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,12","0,2",5632,26051122481
+TRX4424912,20/09/2023,60888,Kimia Farma - Apotek,Bekasi,Jawa Barat,"4,1",Gina Perez,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,12","0,2",5632,26051122481
+TRX6546617,27/06/2021,35836,Kimia Farma - Apotek,Malang,Jawa Timur,"4,5",Cheryl Parker,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,12","0,2",5632,26051122481
+TRX2724314,29/07/2021,82240,Kimia Farma - Apotek,Tasikmalaya,Jawa Barat,"4,2",Steven Gallagher,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,12","0,2",5632,26051122481
+TRX2183434,27/01/2022,61835,Kimia Farma - Apotek,Tasikmalaya,Jawa Barat,"4,9",Martin Bright,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,12","0,2",5632,26051122481
+TRX2923788,22/06/2023,99442,Kimia Farma - Apotek,Cikampek,Jawa Barat,"4,9",Kyle Walker,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,12","0,2",5632,26051122481
+TRX4216838,23/03/2022,53721,Kimia Farma - Apotek,Mataram,Nusa Tenggara Barat,"4,4",Cody Gray,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,12","0,2",5632,26051122481
+TRX8858747,04/06/2021,39527,Kimia Farma - Apotek,Banjarmasin,Kalimantan Selatan,"4,6",Michelle Lopez,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,12","0,2",5632,26051122481
+TRX3328193,08/04/2022,59549,Kimia Farma - Apotek,Purwakarta,Jawa Barat,"4,2",Pamela Chambers,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,12","0,2",5632,26051122481
+TRX8367702,05/02/2023,71355,Kimia Farma - Apotek,Ciamis,Jawa Barat,"4,2",Charlotte Reed,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,12","0,2",5632,26051122481
+TRX1120271,17/04/2022,94905,Kimia Farma - Apotek,Pangkalpinang,Bangka Belitung,"4,5",Jessica Byrd,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,12","0,2",5632,26051122481
+TRX2509373,27/03/2022,13831,Kimia Farma - Apotek,Tebing Tinggi,Sumatera Utara,"4,1",Kayla Christensen,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,12","0,2",5632,26051122481
+TRX7680753,02/03/2022,70971,Kimia Farma - Apotek,Tomohon,Sulawesi Utara,"4,8",Melissa Henson,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,12","0,2",5632,26051122481
+TRX8042345,01/02/2022,61789,Kimia Farma - Apotek,Tasikmalaya,Jawa Barat,4,David Moore,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,12","0,2",5632,26051122481
+TRX2723571,03/09/2021,66939,Kimia Farma - Apotek,Tarakan,Kalimantan Utara,4,Charles Lara,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,12","0,2",5632,26051122481
+TRX2425875,19/04/2023,59449,Kimia Farma - Apotek,Indramayu,Jawa Barat,"4,1",Thomas Bryan,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,12","0,2",5632,26051122481
+TRX2859566,05/10/2022,35044,Kimia Farma - Apotek,Ciamis,Jawa Barat,"4,3",Debbie Brewer,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,12","0,2",5632,26051122481
+TRX5233543,01/06/2023,89507,Kimia Farma - Apotek,Bitung,Sulawesi Utara,"4,2",Stacie Brown,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,12","0,2",5632,26051122481
+TRX6658357,04/03/2022,80412,Kimia Farma - Apotek,Bekasi,Jawa Barat,"4,8",Jennifer Sims,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,12","0,2",5632,26051122481
+TRX5571828,21/05/2020,82202,Kimia Farma - Apotek,Jambi,Jambi,"4,1",Rebecca Smith,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,12","0,2",5632,26051122481
+TRX4108295,22/05/2021,41081,Kimia Farma - Apotek,Pekanbaru,Riau,"4,2",Adam Stark,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,12","0,2",5632,26051122481
+TRX5729924,19/01/2022,59496,Kimia Farma - Apotek,Surabaya,Jawa Timur,"3,9",Peter Jones,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,12","0,2",5632,26051122481
+TRX7989114,15/07/2023,94165,Kimia Farma - Apotek,Karawang,Jawa Barat,"4,6",Donna Wagner MD,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,12","0,2",5632,26051122481
+TRX6545426,13/09/2021,66153,Kimia Farma - Apotek,Solok,Sumatera Barat,"4,9",Patricia Ball,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,12","0,2",5632,26051122481
+TRX4295640,03/11/2023,99409,Kimia Farma - Apotek,Bekasi,Jawa Barat,4,James Payne,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,12","0,2",5632,26051122481
+TRX2948928,14/12/2023,79455,Kimia Farma - Apotek,Mataram,Nusa Tenggara Barat,"4,8",Catherine Marsh,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,12","0,2",5632,26051122481
+TRX7750541,16/11/2023,74125,Kimia Farma - Apotek,Subang,Jawa Barat,"4,8",Andre Wells,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,12","0,2",5632,26051122481
+TRX5211035,03/08/2021,19017,Kimia Farma - Apotek,Pematangsiantar,Sumatera Utara,5,Stephen Watts,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,12","0,2",5632,26051122481
+TRX9477213,13/08/2022,80557,Kimia Farma - Apotek,Pariaman,Sumatera Barat,4,Lindsay Phillips,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,12","0,2",5632,26051122481
+TRX7678296,27/10/2023,40625,Kimia Farma - Apotek,Karawang,Jawa Barat,"4,4",Brad Wong,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,08","0,2",5888,26051122481
+TRX2264582,22/06/2021,46468,Kimia Farma - Apotek,Bima,Nusa Tenggara Barat,"4,7",Kristy Conway,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,08","0,2",5888,26051122481
+TRX7538687,10/09/2021,97507,Kimia Farma - Apotek,Pekanbaru,Riau,"4,1",Melissa Gilbert,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,08","0,2",5888,26051122481
+TRX5824559,25/09/2020,27998,Kimia Farma - Apotek,Padang Sidempuan,Sumatera Utara,"4,3",Justin Hamilton,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,08","0,2",5888,26051122481
+TRX8798371,14/01/2022,93702,Kimia Farma - Apotek,Jayapura,Papua,"4,3",Jonathan Vargas,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,08","0,2",5888,26051122481
+TRX9190116,19/10/2021,31737,Kimia Farma - Apotek,Mataram,Nusa Tenggara Barat,"4,2",Derrick Maldonado,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,08","0,2",5888,26051122481
+TRX9998116,13/07/2021,49927,Kimia Farma - Apotek,Surabaya,Jawa Timur,"4,1",James Williams,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,08","0,2",5888,26051122481
+TRX2060598,22/03/2023,66153,Kimia Farma - Apotek,Solok,Sumatera Barat,"4,9",Christopher Hobbs,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,08","0,2",5888,26051122481
+TRX8112839,12/04/2022,82832,Kimia Farma - Apotek,Purwakarta,Jawa Barat,"4,7",Michele Pineda,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,08","0,2",5888,26051122481
+TRX9747893,31/10/2022,96742,Kimia Farma - Apotek,Garut,Jawa Barat,"4,4",Dean Sloan,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,08","0,2",5888,26051122481
+TRX1967718,16/01/2022,30640,Kimia Farma - Apotek,Pangkalpinang,Bangka Belitung,"4,3",Tiffany Lucas,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,08","0,2",5888,26051122481
+TRX5155958,26/06/2021,34844,Kimia Farma - Apotek,Lubuklinggau,Sumatera Selatan,"4,1",Renee King,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,08","0,2",5888,26051122481
+TRX9377910,07/11/2021,11999,Kimia Farma - Apotek,Tasikmalaya,Jawa Barat,"4,1",Cynthia Morton,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,08","0,2",5888,26051122481
+TRX3285480,30/06/2023,12369,Kimia Farma - Apotek,Ciamis,Jawa Barat,"4,4",Cassandra Ross DVM,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,08","0,2",5888,26051122481
+TRX8864222,05/03/2020,11640,Kimia Farma - Apotek,Probolinggo,Jawa Timur,"4,2",James Salazar,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,08","0,2",5888,26051122481
+TRX5109342,21/01/2023,40540,Kimia Farma - Apotek,Ciamis,Jawa Barat,"4,7",Clarence Wilson,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,08","0,2",5888,26051122481
+TRX9420375,02/11/2021,36953,Kimia Farma - Apotek,Cilacap,Jawa Tengah,5,Ashley Clark,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,08","0,2",5888,26051122481
+TRX8624815,13/11/2021,65187,Kimia Farma - Apotek,Tangerang,Banten,"4,5",Jennifer Perez,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,08","0,2",5888,26051122481
+TRX7554323,15/12/2021,62312,Kimia Farma - Apotek,Cianjur,Jawa Barat,"4,5",Richard Blair,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,08","0,2",5888,26051122481
+TRX4011070,18/10/2023,85014,Kimia Farma - Apotek,Balikpapan,Kalimantan Timur,4,Roger Berry,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,08","0,2",5888,26051122481
+TRX2346877,01/12/2020,25951,Kimia Farma - Apotek,Pekanbaru,Riau,"4,5",Connie Booth,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,08","0,2",5888,26051122481
+TRX4508100,04/06/2023,29718,Kimia Farma - Apotek,Semarang,Jawa Tengah,4,Joanne Hill,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,08","0,2",5888,26051122481
+TRX6148977,19/09/2021,88832,Kimia Farma - Apotek,Jakarta,DKI Jakarta,"4,2",John Humphrey,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,08","0,2",5888,26051122481
+TRX9483494,21/11/2020,66153,Kimia Farma - Apotek,Solok,Sumatera Barat,"4,9",Gary West,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,08","0,2",5888,26051122481
+TRX5858060,14/07/2020,59220,Kimia Farma - Apotek,Purwokerto,Jawa Tengah,"4,2",Cathy Greene,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,08","0,2",5888,26051122481
+TRX9314073,12/09/2020,17567,Kimia Farma - Apotek,Kendari,Sulawesi Tenggara,"4,9",Billy Calhoun,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,08","0,2",5888,26051122481
+TRX7642567,25/09/2020,24294,Kimia Farma - Apotek,Payakumbuh,Sumatera Barat,"4,9",Manuel Alexander,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,08","0,2",5888,26051122481
+TRX3174156,30/10/2020,73008,Kimia Farma - Apotek,Mataram,Nusa Tenggara Barat,5,Dawn Hayes,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,08","0,2",5888,26051122481
+TRX8808385,06/07/2021,28123,Kimia Farma - Apotek,Deli Serdang,Sumatera Utara,"4,9",Kenneth Wade,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,08","0,2",5888,26051122481
+TRX9315134,27/05/2023,98300,Kimia Farma - Apotek,Subang,Jawa Barat,"4,9",Mr. Michael Coleman,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,08","0,2",5888,26051122481
+TRX8568545,07/12/2020,31747,Kimia Farma - Apotek,Langsa,Aceh,"4,5",Willie Frye,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,08","0,2",5888,26051122481
+TRX9508133,29/03/2022,52060,Kimia Farma - Apotek,Sibolga,Sumatera Utara,"4,2",Jeffrey Pacheco,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,08","0,2",5888,26051122481
+TRX3990267,21/11/2023,55000,Kimia Farma - Apotek,Makassar,Sulawesi Selatan,4,Christopher Adams,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,08","0,2",5888,26051122481
+TRX7739431,20/12/2023,24592,Kimia Farma - Apotek,Ciamis,Jawa Barat,"3,9",Andrew Miller,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,08","0,2",5888,26051122481
+TRX1778673,16/12/2022,75530,Kimia Farma - Apotek,Jambi,Jambi,"3,9",Brittany Harris,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,08","0,2",5888,26051122481
+TRX6190513,18/07/2023,14433,Kimia Farma - Apotek,Gorontalo,Gorontalo,4,Brenda Jackson,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,08","0,2",5888,26051122481
+TRX4748838,12/05/2022,55568,Kimia Farma - Apotek,Medan,Sumatera Utara,"4,9",Kristen Martinez,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,08","0,2",5888,26051122481
+TRX7919796,02/10/2023,53959,Kimia Farma - Apotek,Ternate,Maluku Utara,"3,9",Danny Smith,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,08","0,2",5888,26051122481
+TRX5828614,20/05/2021,44632,Kimia Farma - Apotek,Mataram,Nusa Tenggara Barat,"4,5",Melissa Young,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,08","0,2",5888,26051122481
+TRX1258508,28/06/2021,68908,Kimia Farma - Apotek,Jayapura,Papua,"4,5",Katrina Michael,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,08","0,2",5888,26051122481
+TRX2595461,21/12/2020,49606,Kimia Farma - Apotek,Palu,Sulawesi Tengah,"4,6",Jeanne Pierce,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,08","0,2",5888,26051122481
+TRX4508302,25/11/2021,68908,Kimia Farma - Apotek,Jayapura,Papua,"4,5",Bradley Campbell,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,08","0,2",5888,26051122481
+TRX7286635,04/12/2020,24922,Kimia Farma - Apotek,Semarang,Jawa Tengah,"4,7",Lauren Gray,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,08","0,2",5888,26051122481
+TRX8686053,19/12/2020,68981,Kimia Farma - Apotek,Samarinda,Kalimantan Timur,"4,5",Megan Jones DDS,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,08","0,2",5888,26051122481
+TRX9195910,22/10/2020,88089,Kimia Farma - Apotek,Indramayu,Jawa Barat,"4,1",Lori Evans,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,08","0,2",5888,26051122481
+TRX7649681,16/01/2022,47901,Kimia Farma - Apotek,Cianjur,Jawa Barat,"4,1",Jorge Paul,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,08","0,2",5888,26051122481
+TRX6630462,25/11/2020,23248,Kimia Farma - Apotek,Bima,Nusa Tenggara Barat,"4,1",David Carlson,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,08","0,2",5888,26051122481
+TRX9784624,15/07/2021,75976,Kimia Farma - Apotek,Yogyakarta,DI Yogyakarta,4,Colleen Bray,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,08","0,2",5888,26051122481
+TRX2236174,28/01/2022,51463,Kimia Farma - Apotek,Ternate,Maluku Utara,"4,4",Chad Dixon,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,08","0,2",5888,26051122481
+TRX3456865,08/08/2020,24646,Kimia Farma - Apotek,Kupang,Nusa Tenggara Timur,"4,4",Arthur Obrien,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,08","0,2",5888,26051122481
+TRX9684618,12/01/2020,65138,Kimia Farma - Apotek,Lubuklinggau,Sumatera Selatan,"4,5",James Shah,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,08","0,2",5888,26051122481
+TRX1309767,24/07/2020,38733,Kimia Farma - Apotek,Ambon,Maluku,"4,9",Vanessa Aguilar,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,08","0,2",5888,26051122481
+TRX9226073,31/01/2020,45422,Kimia Farma - Apotek,Ternate,Maluku Utara,"3,9",Nicole Moreno,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,08","0,2",5888,26051122481
+TRX1750040,04/06/2021,70165,Kimia Farma - Apotek,Bandung,Jawa Barat,"4,2",Laura Taylor,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,08","0,2",5888,26051122481
+TRX3555632,21/07/2020,49864,Kimia Farma - Apotek,Banda Aceh,Aceh,"4,3",Steven Howell,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,08","0,2",5888,26051122481
+TRX1865184,09/03/2023,73710,Kimia Farma - Apotek,Probolinggo,Jawa Timur,4,Crystal Walker,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,08","0,2",5888,26051122481
+TRX9402658,17/11/2023,66421,Kimia Farma - Apotek,Balikpapan,Kalimantan Timur,5,Mr. James Harris,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,08","0,2",5888,26051122481
+TRX7042521,18/07/2021,69548,Kimia Farma - Apotek,Tangerang,Banten,4,Kenneth Rogers,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,08","0,2",5888,26051122481
+TRX6497489,15/05/2021,92899,Kimia Farma - Apotek,Dumai,Riau,"4,7",Michael Gonzales,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,08","0,2",5888,26051122481
+TRX7773831,01/07/2022,22280,Kimia Farma - Apotek,Batam,Kepulauan Riau,"4,5",George Arnold,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,08","0,2",5888,26051122481
+TRX8618380,02/02/2022,49927,Kimia Farma - Apotek,Surabaya,Jawa Timur,"4,1",Mark Allison,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,08","0,2",5888,26051122481
+TRX5674316,21/06/2022,17275,Kimia Farma - Apotek,Banda Aceh,Aceh,"3,9",Erica Graham,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,08","0,2",5888,26051122481
+TRX4940125,26/11/2023,85216,Kimia Farma - Apotek,Purwakarta,Jawa Barat,4,Dawn Roberts,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,08","0,2",5888,26051122481
+TRX6168434,31/12/2021,20382,Kimia Farma - Apotek,Batam,Kepulauan Riau,"4,2",Michelle Mccall,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,08","0,2",5888,26051122481
+TRX2174589,24/04/2022,90512,Kimia Farma - Apotek,Samarinda,Kalimantan Timur,4,Erik Miller,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,08","0,2",5888,26051122481
+TRX4502552,22/05/2021,66939,Kimia Farma - Apotek,Tarakan,Kalimantan Utara,4,Daniel James,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,08","0,2",5888,26051122481
+TRX9986962,03/02/2022,66113,Kimia Farma - Apotek,Bekasi,Jawa Barat,4,Richard Kent,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,08","0,2",5888,26051122481
+TRX1636977,19/07/2020,82336,Kimia Farma - Apotek,Sibolga,Sumatera Utara,"4,2",Sandra Garza,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,08","0,2",5888,26051122481
+TRX4938398,12/11/2022,35964,Kimia Farma - Apotek,Lhokseumawe,Aceh,"4,3",Daniel Jenkins,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,08","0,2",5888,26051122481
+TRX1199697,15/01/2022,95971,Kimia Farma - Apotek,Banjarmasin,Kalimantan Selatan,"4,2",John Rose,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,08","0,2",5888,26051122481
+TRX7961250,20/10/2023,59220,Kimia Farma - Apotek,Purwokerto,Jawa Tengah,"4,2",Nathaniel Meyer,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,08","0,2",5888,26051122481
+TRX9357965,25/08/2023,34844,Kimia Farma - Apotek,Lubuklinggau,Sumatera Selatan,"4,1",Matthew Young,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,08","0,2",5888,26051122481
+TRX7652323,09/08/2020,55568,Kimia Farma - Apotek,Medan,Sumatera Utara,"4,9",Sabrina Parks DVM,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,08","0,2",5888,26051122481
+TRX2716639,07/05/2020,80673,Kimia Farma - Apotek,Kendari,Sulawesi Tenggara,"4,6",Kyle Kim,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,08","0,2",5888,26051122481
+TRX3675671,01/08/2022,48635,Kimia Farma - Apotek,Pangkalpinang,Bangka Belitung,"4,3",Tyler Medina,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,08","0,2",5888,26051122481
+TRX4180290,28/04/2020,71367,Kimia Farma - Apotek,Dumai,Riau,"4,2",Stefanie Anderson,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,08","0,2",5888,26051122481
+TRX2545168,02/09/2020,62628,Kimia Farma - Apotek,Samarinda,Kalimantan Timur,"4,8",Eric Holloway,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,08","0,2",5888,26051122481
+TRX9552484,24/07/2022,56229,Kimia Farma - Apotek,Palangkaraya,Kalimantan Tengah,"4,8",Brian Mcdaniel,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,08","0,2",5888,26051122481
+TRX4832485,09/10/2022,40120,Kimia Farma - Apotek,Jayapura,Papua,"3,9",Donald Taylor,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,08","0,2",5888,26051122481
+TRX9381327,26/04/2020,14773,Kimia Farma - Apotek,Bekasi,Jawa Barat,"4,7",Stephanie Lucas,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,08","0,2",5888,26051122481
+TRX9250431,21/10/2021,12027,Kimia Farma - Apotek,Pangkalpinang,Bangka Belitung,"4,8",Amber Haley,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,08","0,2",5888,26051122481
+TRX3201888,28/05/2022,49403,Kimia Farma - Apotek,Kuningan,Jawa Barat,"3,9",Michael Newman,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,08","0,2",5888,26051122481
+TRX7928893,19/12/2023,61880,Kimia Farma - Apotek,Sibolga,Sumatera Utara,4,Dr. Emily Chavez,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,08","0,2",5888,26051122481
+TRX2578498,17/04/2020,23145,Kimia Farma - Apotek,Pangkalpinang,Bangka Belitung,"4,3",Amanda Thompson,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,08","0,2",5888,26051122481
+TRX8115795,11/03/2020,60964,Kimia Farma - Apotek,Pariaman,Sumatera Barat,"4,3",Melissa Montgomery,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,08","0,2",5888,26051122481
+TRX6041015,19/11/2020,41081,Kimia Farma - Apotek,Pekanbaru,Riau,"4,2",Debra Medina,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,08","0,2",5888,26051122481
+TRX8472471,18/12/2023,26671,Kimia Farma - Apotek,Pangkalpinang,Bangka Belitung,"4,1",Lisa Allen,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,08","0,2",5888,26051122481
+TRX9024070,11/12/2021,24963,Kimia Farma - Apotek,Purwakarta,Jawa Barat,"4,2",Tina Howe,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,08","0,2",5888,26051122481
+TRX2788296,27/09/2023,78631,Kimia Farma - Apotek,Pangkalpinang,Bangka Belitung,"4,3",Margaret Salazar,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,08","0,2",5888,26051122481
+TRX9035045,18/04/2022,12558,Kimia Farma - Apotek,Kendari,Sulawesi Tenggara,"4,4",Michael Leon,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,08","0,2",5888,26051122481
+TRX8145929,08/08/2020,37012,Kimia Farma - Apotek,Bandung,Jawa Barat,"4,8",Christopher Rogers,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,08","0,2",5888,26051122481
+TRX7413839,05/01/2020,90692,Kimia Farma - Apotek,Denpasar,Bali,"3,9",Jeffery Adkins,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,08","0,2",5888,26051122481
+TRX1048651,12/10/2022,53507,Kimia Farma - Apotek,Cikampek,Jawa Barat,"4,5",Jacob Bullock,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,08","0,2",5888,26051122481
+TRX8153252,22/11/2023,12174,Kimia Farma - Apotek,Pangkalpinang,Bangka Belitung,"4,7",Glenn Hendricks,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,08","0,2",5888,26051122481
+TRX2541442,12/04/2021,90913,Kimia Farma - Apotek,Gorontalo,Gorontalo,"4,8",Randall Rios,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,08","0,2",5888,26051122481
+TRX9412292,19/05/2021,14756,Kimia Farma - Apotek,Ciamis,Jawa Barat,"4,3",Joshua Liu,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,08","0,2",5888,26051122481
+TRX6332444,26/09/2021,66113,Kimia Farma - Apotek,Bekasi,Jawa Barat,4,Megan Olson,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,04","0,2",6144,26051122481
+TRX1777882,09/12/2021,75503,Kimia Farma - Apotek,Tomohon,Sulawesi Utara,"4,7",Rebecca Castro,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,04","0,2",6144,26051122481
+TRX6903102,14/12/2020,40222,Kimia Farma - Apotek,Purwokerto,Jawa Tengah,"4,1",Matthew Gonzalez,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,04","0,2",6144,26051122481
+TRX9233290,10/11/2020,49606,Kimia Farma - Apotek,Palu,Sulawesi Tengah,"4,6",Mary Mitchell,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,04","0,2",6144,26051122481
+TRX2564565,03/02/2020,81651,Kimia Farma - Apotek,Bitung,Sulawesi Utara,"4,2",Jackie Foley,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,04","0,2",6144,26051122481
+TRX4526159,22/06/2020,30539,Kimia Farma - Apotek,Kuningan,Jawa Barat,"4,4",Jack Rogers,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,04","0,2",6144,26051122481
+TRX7638804,25/05/2020,58928,Kimia Farma - Apotek,Solok,Sumatera Barat,4,Dr. Robin Parker DDS,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,04","0,2",6144,26051122481
+TRX4110392,26/11/2021,28053,Kimia Farma - Apotek,Semarang,Jawa Tengah,"4,1",Shawn Watson,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,04","0,2",6144,26051122481
+TRX7026440,15/06/2023,11999,Kimia Farma - Apotek,Tasikmalaya,Jawa Barat,"4,1",Leah Horton,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,04","0,2",6144,26051122481
+TRX6390931,30/11/2023,67807,Kimia Farma - Apotek,Tanjungpinang,Kepulauan Riau,"4,4",Levi Bates,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,04","0,2",6144,26051122481
+TRX2103662,22/02/2021,49260,Kimia Farma - Apotek,Ambon,Maluku,"4,2",Nicholas Alvarez,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,04","0,2",6144,26051122481
+TRX6756449,10/10/2022,60481,Kimia Farma - Apotek,Pekanbaru,Riau,"4,1",Andres Lucero,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,04","0,2",6144,26051122481
+TRX2344054,02/03/2021,23145,Kimia Farma - Apotek,Pangkalpinang,Bangka Belitung,"4,3",Luke Blair,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,04","0,2",6144,26051122481
+TRX8417717,07/01/2022,90913,Kimia Farma - Apotek,Gorontalo,Gorontalo,"4,8",Charles Wright,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,04","0,2",6144,26051122481
+TRX9651540,19/08/2023,55171,Kimia Farma - Apotek,Ambon,Maluku,5,Ashley Hansen,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,04","0,2",6144,26051122481
+TRX4572680,28/02/2020,87583,Kimia Farma - Apotek,Surabaya,Jawa Timur,"4,6",Cynthia Boyer,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,04","0,2",6144,26051122481
+TRX8507814,22/11/2022,39499,Kimia Farma - Apotek,Denpasar,Bali,"4,5",David Klein,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,04","0,2",6144,26051122481
+TRX6993664,09/10/2022,29115,Kimia Farma - Apotek,Subang,Jawa Barat,"4,7",Jenna Mcdaniel,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,04","0,2",6144,26051122481
+TRX7633327,22/12/2023,35746,Kimia Farma - Apotek,Surabaya,Jawa Timur,"4,5",Samuel Ramos,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,04","0,2",6144,26051122481
+TRX7734046,08/05/2021,44554,Kimia Farma - Apotek,Tebing Tinggi,Sumatera Utara,5,Tracy Smith,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,04","0,2",6144,26051122481
+TRX7503911,30/10/2020,37402,Kimia Farma - Apotek,Bekasi,Jawa Barat,"3,9",Dr. Janet Dalton,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,04","0,2",6144,26051122481
+TRX7728365,26/10/2022,33406,Kimia Farma - Apotek,Tanjungpinang,Kepulauan Riau,"4,7",Joshua Johnson,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,04","0,2",6144,26051122481
+TRX2179760,20/10/2021,95261,Kimia Farma - Apotek,Palangkaraya,Kalimantan Tengah,"4,1",Kristen Arellano,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,04","0,2",6144,26051122481
+TRX2148550,11/06/2022,73814,Kimia Farma - Apotek,Purwakarta,Jawa Barat,"4,7",Jeffrey Mills,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,04","0,2",6144,26051122481
+TRX1359393,21/02/2020,21659,Kimia Farma - Apotek,Tasikmalaya,Jawa Barat,4,Lauren Larson,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,04","0,2",6144,26051122481
+TRX1995344,31/12/2022,30970,Kimia Farma - Apotek,Purwakarta,Jawa Barat,"4,9",Julie Garcia,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,04","0,2",6144,26051122481
+TRX2943660,12/11/2020,98676,Kimia Farma - Apotek,Malang,Jawa Timur,"4,4",Roberto Boyd,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,04","0,2",6144,26051122481
+TRX3987649,11/05/2021,26025,Kimia Farma - Apotek,Kotamobagu,Sulawesi Utara,"4,8",Joseph Collins Jr.,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,04","0,2",6144,26051122481
+TRX3751463,21/08/2022,27679,Kimia Farma - Apotek,Batam,Kepulauan Riau,4,Martin Lee,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,04","0,2",6144,26051122481
+TRX9581347,20/04/2023,96462,Kimia Farma - Apotek,Semarang,Jawa Tengah,"4,1",Felicia Mcclure,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,04","0,2",6144,26051122481
+TRX6920234,22/06/2023,58103,Kimia Farma - Apotek,Karawang,Jawa Barat,"4,7",Pamela Foster,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,04","0,2",6144,26051122481
+TRX7227615,11/09/2022,20382,Kimia Farma - Apotek,Batam,Kepulauan Riau,"4,2",Christopher Taylor,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,04","0,2",6144,26051122481
+TRX1075141,05/06/2022,33006,Kimia Farma - Apotek,Karawang,Jawa Barat,"4,7",Joshua Conley,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,04","0,2",6144,26051122481
+TRX2052922,10/12/2022,73008,Kimia Farma - Apotek,Mataram,Nusa Tenggara Barat,5,William Wright,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,04","0,2",6144,26051122481
+TRX6700688,15/04/2020,60888,Kimia Farma - Apotek,Bekasi,Jawa Barat,"4,1",James Villa,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,04","0,2",6144,26051122481
+TRX5948780,18/05/2021,14756,Kimia Farma - Apotek,Ciamis,Jawa Barat,"4,3",Daniel Wright,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,04","0,2",6144,26051122481
+TRX7890040,23/10/2021,28844,Kimia Farma - Apotek,Indramayu,Jawa Barat,"4,1",Jason Durham,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,04","0,2",6144,26051122481
+TRX3002316,29/05/2021,38733,Kimia Farma - Apotek,Ambon,Maluku,"4,9",Joy Parker,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,04","0,2",6144,26051122481
+TRX4809365,30/04/2020,45072,Kimia Farma - Apotek,Surabaya,Jawa Timur,"4,7",Jeffrey Carter,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,04","0,2",6144,26051122481
+TRX8005793,25/05/2021,16158,Kimia Farma - Apotek,Subang,Jawa Barat,5,Danielle Jones,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,04","0,2",6144,26051122481
+TRX9931371,21/01/2021,14773,Kimia Farma - Apotek,Bekasi,Jawa Barat,"4,7",Cindy Ortega,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,04","0,2",6144,26051122481
+TRX5625378,10/09/2020,56478,Kimia Farma - Apotek,Tasikmalaya,Jawa Barat,4,Jeffrey Kennedy,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,04","0,2",6144,26051122481
+TRX4365121,20/03/2020,40625,Kimia Farma - Apotek,Karawang,Jawa Barat,"4,4",Crystal Williams,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,04","0,2",6144,26051122481
+TRX8570486,15/05/2022,66939,Kimia Farma - Apotek,Tarakan,Kalimantan Utara,4,Joseph Oliver,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,04","0,2",6144,26051122481
+TRX2696468,17/06/2022,93665,Kimia Farma - Apotek,Tomohon,Sulawesi Utara,5,Mr. Greg Parker,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,04","0,2",6144,26051122481
+TRX8796966,29/05/2021,80176,Kimia Farma - Apotek,Dumai,Riau,"4,7",Brian Gomez,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,04","0,2",6144,26051122481
+TRX7551357,25/11/2023,85287,Kimia Farma - Apotek,Sorong,Papua Barat,"4,9",Brandon Smith,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,04","0,2",6144,26051122481
+TRX7071697,04/08/2023,12991,Kimia Farma - Apotek,Garut,Jawa Barat,"3,9",Kristen Osborne,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,04","0,2",6144,26051122481
+TRX6241702,14/09/2022,98560,Kimia Farma - Apotek,Tanjungpinang,Kepulauan Riau,"4,9",Bradley Rojas,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,04","0,2",6144,26051122481
+TRX7210129,18/11/2023,16158,Kimia Farma - Apotek,Subang,Jawa Barat,5,Teresa Harmon,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,04","0,2",6144,26051122481
+TRX5348984,02/01/2020,40699,Kimia Farma - Apotek,Surabaya,Jawa Timur,"4,1",Jacob Martin,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,04","0,2",6144,26051122481
+TRX8996894,11/04/2022,69575,Kimia Farma - Apotek,Garut,Jawa Barat,"4,2",Arthur Ward,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,04","0,2",6144,26051122481
+TRX7899131,21/06/2021,50780,Kimia Farma - Apotek,Bitung,Sulawesi Utara,"4,8",Jonathan Mckee DDS,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,04","0,2",6144,26051122481
+TRX9858265,17/07/2023,95261,Kimia Farma - Apotek,Palangkaraya,Kalimantan Tengah,"4,1",Bryce Adkins,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,04","0,2",6144,26051122481
+TRX5465845,15/03/2021,13792,Kimia Farma - Apotek,Pontianak,Kalimantan Barat,4,Brittney Crawford,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,04","0,2",6144,26051122481
+TRX4977248,12/06/2023,82564,Kimia Farma - Apotek,Palembang,Sumatera Selatan,"4,2",Deanna Martinez,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,04","0,2",6144,26051122481
+TRX4008969,12/11/2020,39527,Kimia Farma - Apotek,Banjarmasin,Kalimantan Selatan,"4,6",Samantha Mills,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,04","0,2",6144,26051122481
+TRX6415124,04/07/2021,68981,Kimia Farma - Apotek,Samarinda,Kalimantan Timur,"4,5",Kelly Yates,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,04","0,2",6144,26051122481
+TRX9549056,16/10/2020,49584,Kimia Farma - Apotek,Padang Sidempuan,Sumatera Utara,"4,6",Ryan Smith,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,04","0,2",6144,26051122481
+TRX2343011,02/10/2021,59449,Kimia Farma - Apotek,Indramayu,Jawa Barat,"4,1",Jasmine Vargas,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,04","0,2",6144,26051122481
+TRX3663528,03/04/2020,36121,Kimia Farma - Apotek,Bima,Nusa Tenggara Barat,"4,9",Courtney Adams,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,04","0,2",6144,26051122481
+TRX6431810,22/03/2020,56918,Kimia Farma - Apotek,Purwakarta,Jawa Barat,"3,9",Amy Waller MD,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,04","0,2",6144,26051122481
+TRX3719644,05/05/2021,78158,Kimia Farma - Apotek,Palu,Sulawesi Tengah,"4,1",Jasmine Nelson,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,04","0,2",6144,26051122481
+TRX6407188,04/03/2020,93878,Kimia Farma - Apotek,Semarang,Jawa Tengah,"4,5",Ashley Hamilton,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,04","0,2",6144,26051122481
+TRX7320630,29/05/2020,30247,Kimia Farma - Apotek,Pariaman,Sumatera Barat,4,Adam Fitzgerald,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,04","0,2",6144,26051122481
+TRX4705051,11/11/2021,38172,Kimia Farma - Apotek,Pontianak,Kalimantan Barat,5,Jordan Jones,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,04","0,2",6144,26051122481
+TRX3520624,11/05/2021,54372,Kimia Farma - Apotek,Padang,Sumatera Barat,"4,2",Jeremy Beasley,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,04","0,2",6144,26051122481
+TRX7036892,06/08/2020,23156,Kimia Farma - Apotek,Samarinda,Kalimantan Timur,5,Susan Jones,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,04","0,2",6144,26051122481
+TRX9119484,10/04/2020,45642,Kimia Farma - Apotek,Cikampek,Jawa Barat,"4,7",Travis Smith,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,04","0,2",6144,26051122481
+TRX2942341,31/07/2023,32325,Kimia Farma - Apotek,Bima,Nusa Tenggara Barat,"4,4",John Powell,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,04","0,2",6144,26051122481
+TRX3227034,14/03/2021,66847,Kimia Farma - Apotek,Gorontalo,Gorontalo,"4,4",Steven Rivas,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,04","0,2",6144,26051122481
+TRX8018652,29/01/2020,66525,Kimia Farma - Apotek,Sibolga,Sumatera Utara,"4,7",John Miller,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,04","0,2",6144,26051122481
+TRX8539217,14/08/2022,23156,Kimia Farma - Apotek,Samarinda,Kalimantan Timur,5,Emily Obrien,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,04","0,2",6144,26051122481
+TRX3340312,03/05/2023,70985,Kimia Farma - Apotek,Manado,Sulawesi Utara,"4,3",Bruce Miller,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,04","0,2",6144,26051122481
+TRX7836387,06/01/2023,46757,Kimia Farma - Apotek,Cianjur,Jawa Barat,"4,2",George Stewart,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,04","0,2",6144,26051122481
+TRX7112522,30/10/2023,46757,Kimia Farma - Apotek,Cianjur,Jawa Barat,"4,2",Michelle Friedman,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,04","0,2",6144,26051122481
+TRX7139533,06/01/2021,94753,Kimia Farma - Apotek,Pontianak,Kalimantan Barat,"4,2",Michael Fisher,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,04","0,2",6144,26051122481
+TRX5555963,25/05/2023,66939,Kimia Farma - Apotek,Tarakan,Kalimantan Utara,4,Andrea Anderson,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,04","0,2",6144,26051122481
+TRX1039056,26/04/2022,17138,Kimia Farma - Apotek,Makassar,Sulawesi Selatan,"3,9",Emily Davis MD,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,04","0,2",6144,26051122481
+TRX5960420,02/06/2020,98041,Kimia Farma - Apotek,Tomohon,Sulawesi Utara,"4,5",John Davis,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,04","0,2",6144,26051122481
+TRX5239546,04/11/2023,56877,Kimia Farma - Apotek,Subang,Jawa Barat,"4,9",Veronica Roberson,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,04","0,2",6144,26051122481
+TRX1924773,07/01/2023,73625,Kimia Farma - Apotek,Kotamobagu,Sulawesi Utara,"4,9",Jonathan Ward,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,04","0,2",6144,26051122481
+TRX3067918,06/02/2022,31935,Kimia Farma - Apotek,Tangerang,Banten,"4,4",Melanie Owens,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,04","0,2",6144,26051122481
+TRX4397413,07/10/2021,13775,Kimia Farma - Apotek,Tomohon,Sulawesi Utara,5,Victoria Gibson,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,04","0,2",6144,26051122481
+TRX1529046,25/08/2021,20476,Kimia Farma - Apotek,Bogor,Jawa Barat,"4,8",Matthew Hernandez,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,04","0,2",6144,26051122481
+TRX2188550,14/01/2023,75909,Kimia Farma - Apotek,Yogyakarta,DI Yogyakarta,"4,2",Joseph Schaefer,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,04","0,2",6144,26051122481
+TRX2918139,03/07/2022,12056,Kimia Farma - Apotek,Pariaman,Sumatera Barat,"4,5",Jessica Murphy,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,04","0,2",6144,26051122481
+TRX1545364,24/07/2023,37012,Kimia Farma - Apotek,Bandung,Jawa Barat,"4,8",Mr. William Glenn,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,04","0,2",6144,26051122481
+TRX7349235,19/06/2021,34844,Kimia Farma - Apotek,Lubuklinggau,Sumatera Selatan,"4,1",Mark Leonard MD,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,04","0,2",6144,26051122481
+TRX7264150,19/03/2020,61194,Kimia Farma - Apotek,Jakarta,DKI Jakarta,"4,2",Shelly Crawford,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,04","0,2",6144,26051122481
+TRX5438745,16/01/2021,78158,Kimia Farma - Apotek,Palu,Sulawesi Tengah,"4,1",Julie Bowers,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,04","0,2",6144,26051122481
+TRX3517785,20/07/2020,17567,Kimia Farma - Apotek,Kendari,Sulawesi Tenggara,"4,9",Darrell Cline,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,04","0,2",6144,26051122481
+TRX2785944,27/05/2021,82380,Kimia Farma - Apotek,Solok,Sumatera Barat,"4,4",Max Castro,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,04","0,2",6144,26051122481
+TRX6614900,01/08/2022,17863,Kimia Farma - Apotek,Gorontalo,Gorontalo,"4,7",Sandra Brandt,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,04","0,2",6144,26051122481
+TRX9422667,14/12/2023,30539,Kimia Farma - Apotek,Kuningan,Jawa Barat,"4,4",Gregory Young,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,04","0,2",6144,26051122481
+TRX4309703,03/11/2023,12027,Kimia Farma - Apotek,Pangkalpinang,Bangka Belitung,"4,8",Thomas Hardin,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,04","0,2",6144,26051122481
+TRX2750029,29/12/2022,86667,Kimia Farma - Apotek,Bekasi,Jawa Barat,"4,6",Lauren Abbott,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,04","0,2",6144,26051122481
+TRX1721452,15/01/2023,59765,Kimia Farma - Apotek,Garut,Jawa Barat,"4,1",Sheila Bennett,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,04","0,2",6144,26051122481
+TRX6347065,26/05/2023,47503,Kimia Farma - Apotek,Denpasar,Bali,"4,1",John George,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,04","0,2",6144,26051122481
+TRX2272371,12/10/2020,65584,Kimia Farma - Apotek,Semarang,Jawa Tengah,5,Dana Sutton,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,04","0,2",6144,26051122481
+TRX6157460,19/08/2021,43614,Kimia Farma - Apotek,Cikampek,Jawa Barat,"4,5",Miranda Skinner,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,04","0,2",6144,26051122481
+TRX4104167,21/11/2020,29203,Kimia Farma - Apotek,Tasikmalaya,Jawa Barat,"4,3",Jessica Meyers,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,04","0,2",6144,26051122481
+TRX9938138,24/03/2022,45962,Kimia Farma - Apotek,Tasikmalaya,Jawa Barat,"4,4",Victoria Evans,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,04","0,2",6144,26051122481
+TRX7079693,14/11/2020,40313,Kimia Farma - Apotek,Tasikmalaya,Jawa Barat,"4,8",Nathaniel Francis,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,04","0,2",6144,26051122481
+TRX1390126,21/10/2023,34829,Kimia Farma - Apotek,Lubuklinggau,Sumatera Selatan,"4,5",James Williams,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,04","0,2",6144,26051122481
+TRX2632768,12/07/2022,20566,Kimia Farma - Apotek,Lhokseumawe,Aceh,4,Lauren Martin,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,"0,04","0,2",6144,26051122481
+TRX1878665,13/04/2021,48130,Kimia Farma - Apotek,Tasikmalaya,Jawa Barat,"4,7",Daniel Reid,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0,"0,2",6400,26051122481
+TRX7774440,23/10/2021,75181,Kimia Farma - Apotek,Palembang,Sumatera Selatan,"4,4",Kenneth White,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0,"0,2",6400,26051122481
+TRX7853542,05/04/2021,40120,Kimia Farma - Apotek,Jayapura,Papua,"3,9",Richard Miller,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0,"0,2",6400,26051122481
+TRX3647414,19/02/2023,55000,Kimia Farma - Apotek,Makassar,Sulawesi Selatan,4,Danielle Ward,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0,"0,2",6400,26051122481
+TRX3306143,26/08/2023,45072,Kimia Farma - Apotek,Surabaya,Jawa Timur,"4,7",Joseph Clark,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0,"0,2",6400,26051122481
+TRX6666285,30/03/2021,48667,Kimia Farma - Apotek,Cikampek,Jawa Barat,"4,2",Joseph Savage,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0,"0,2",6400,26051122481
+TRX2763980,07/10/2023,54503,Kimia Farma - Apotek,Palangkaraya,Kalimantan Tengah,"4,9",Nicholas Mason,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0,"0,2",6400,26051122481
+TRX1835105,25/02/2021,82832,Kimia Farma - Apotek,Purwakarta,Jawa Barat,"4,7",Sean Patel,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0,"0,2",6400,26051122481
+TRX6519084,19/07/2021,82894,Kimia Farma - Apotek,Tomohon,Sulawesi Utara,"4,5",Caleb Martin DDS,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0,"0,2",6400,26051122481
+TRX8808913,11/02/2023,37191,Kimia Farma - Apotek,Bima,Nusa Tenggara Barat,"3,9",Stephen Kline,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0,"0,2",6400,26051122481
+TRX6488163,04/06/2022,24277,Kimia Farma - Apotek,Lhokseumawe,Aceh,"4,2",Kevin Mcmahon,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0,"0,2",6400,26051122481
+TRX8435333,13/04/2021,96742,Kimia Farma - Apotek,Garut,Jawa Barat,"4,4",Brandon Cox,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0,"0,2",6400,26051122481
+TRX8614828,09/10/2023,81651,Kimia Farma - Apotek,Bitung,Sulawesi Utara,"4,2",Angela Powell,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0,"0,2",6400,26051122481
+TRX2043441,07/09/2021,86446,Kimia Farma - Apotek,Bitung,Sulawesi Utara,"4,1",Mr. Daniel Mills,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0,"0,2",6400,26051122481
+TRX8998385,08/12/2022,14469,Kimia Farma - Apotek,Purwokerto,Jawa Tengah,5,Barry Hernandez,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0,"0,2",6400,26051122481
+TRX5076409,08/06/2023,31305,Kimia Farma - Apotek,Sibolga,Sumatera Utara,"4,2",Audrey Brown,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0,"0,2",6400,26051122481
+TRX1749373,06/07/2022,80673,Kimia Farma - Apotek,Kendari,Sulawesi Tenggara,"4,6",Paula Patel,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0,"0,2",6400,26051122481
+TRX5200917,14/11/2023,60036,Kimia Farma - Apotek,Batam,Kepulauan Riau,"4,9",Robert Stewart,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0,"0,2",6400,26051122481
+TRX1013662,30/08/2023,76351,Kimia Farma - Apotek,Palu,Sulawesi Tengah,"4,4",Susan Hunt,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0,"0,2",6400,26051122481
+TRX3869280,01/06/2022,64238,Kimia Farma - Apotek,Jakarta,DKI Jakarta,4,Leslie Dickerson,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0,"0,2",6400,26051122481
+TRX6389993,27/02/2023,44502,Kimia Farma - Apotek,Manado,Sulawesi Utara,"4,1",Debbie Wagner,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0,"0,2",6400,26051122481
+TRX1175521,12/07/2022,59607,Kimia Farma - Apotek,Magelang,Jawa Tengah,"4,3",Javier Lewis,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0,"0,2",6400,26051122481
+TRX3807157,25/03/2023,82240,Kimia Farma - Apotek,Tasikmalaya,Jawa Barat,"4,2",Andrew Simon,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0,"0,2",6400,26051122481
+TRX8477220,28/05/2020,52060,Kimia Farma - Apotek,Sibolga,Sumatera Utara,"4,2",Elizabeth Reese,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0,"0,2",6400,26051122481
+TRX2988637,15/12/2023,58873,Kimia Farma - Apotek,Cikampek,Jawa Barat,"4,8",Jerry Clark,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0,"0,2",6400,26051122481
+TRX8926283,04/07/2022,90726,Kimia Farma - Apotek,Sukabumi,Jawa Barat,"4,8",Kyle Buck,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0,"0,2",6400,26051122481
+TRX2999569,19/11/2020,67859,Kimia Farma - Apotek,Karawang,Jawa Barat,"4,5",Jeffrey Cameron,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0,"0,2",6400,26051122481
+TRX6871391,06/05/2022,85280,Kimia Farma - Apotek,Banda Aceh,Aceh,4,John Davis,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0,"0,2",6400,26051122481
+TRX1972862,16/12/2022,89154,Kimia Farma - Apotek,Palembang,Sumatera Selatan,"4,5",Marissa Rhodes,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0,"0,2",6400,26051122481
+TRX7687611,20/07/2023,63942,Kimia Farma - Apotek,Bandung,Jawa Barat,5,Gregory Newman,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0,"0,2",6400,26051122481
+TRX7446131,19/04/2020,60888,Kimia Farma - Apotek,Bekasi,Jawa Barat,"4,1",Neil Cox,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0,"0,2",6400,26051122481
+TRX6444904,08/11/2020,33488,Kimia Farma - Apotek,Denpasar,Bali,"4,8",Molly Carlson,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0,"0,2",6400,26051122481
+TRX7573096,30/11/2023,50821,Kimia Farma - Apotek,Deli Serdang,Sumatera Utara,"4,5",Jennifer Dixon,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0,"0,2",6400,26051122481
+TRX7199681,12/11/2020,28401,Kimia Farma - Apotek,Magelang,Jawa Tengah,"3,9",Megan Coleman,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0,"0,2",6400,26051122481
+TRX3939512,19/03/2021,90734,Kimia Farma - Apotek,Sukabumi,Jawa Barat,"4,6",Michael Leon,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0,"0,2",6400,26051122481
+TRX6347654,18/04/2020,18983,Kimia Farma - Apotek,Solok,Sumatera Barat,"4,8",Joel Chavez,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0,"0,2",6400,26051122481
+TRX3351772,14/12/2021,87281,Kimia Farma - Apotek,Semarang,Jawa Tengah,"4,4",Bryan Morris,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0,"0,2",6400,26051122481
+TRX3795611,22/03/2023,59607,Kimia Farma - Apotek,Magelang,Jawa Tengah,"4,3",Bryan Dickerson,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0,"0,2",6400,26051122481
+TRX8408357,25/08/2023,25951,Kimia Farma - Apotek,Pekanbaru,Riau,"4,5",Thomas Velasquez,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0,"0,2",6400,26051122481
+TRX8006449,12/10/2021,58103,Kimia Farma - Apotek,Karawang,Jawa Barat,"4,7",Samantha Hanson,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0,"0,2",6400,26051122481
+TRX4497449,02/06/2022,74030,Kimia Farma - Apotek,Bitung,Sulawesi Utara,"4,5",Paul Hall,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0,"0,2",6400,26051122481
+TRX4096078,19/08/2022,66717,Kimia Farma - Apotek,Subang,Jawa Barat,"4,2",Paul Stewart,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0,"0,2",6400,26051122481
+TRX2934060,20/03/2022,61007,Kimia Farma - Apotek,Purwakarta,Jawa Barat,4,Courtney Mcgee,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0,"0,2",6400,26051122481
+TRX6903569,27/04/2020,96558,Kimia Farma - Apotek,Denpasar,Bali,"4,7",Jill Norton,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0,"0,2",6400,26051122481
+TRX3433578,16/03/2021,15338,Kimia Farma - Apotek,Kotamobagu,Sulawesi Utara,"3,9",Crystal Adams,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0,"0,2",6400,26051122481
+TRX6837691,17/06/2023,86446,Kimia Farma - Apotek,Bitung,Sulawesi Utara,"4,1",Bobby Jenkins,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0,"0,2",6400,26051122481
+TRX4799546,15/06/2023,21410,Kimia Farma - Apotek,Mataram,Nusa Tenggara Barat,"4,2",Kathleen Woods,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0,"0,2",6400,26051122481
+TRX6476361,10/04/2020,24913,Kimia Farma - Apotek,Bekasi,Jawa Barat,"4,2",Reginald Cox,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0,"0,2",6400,26051122481
+TRX8095236,10/07/2020,16040,Kimia Farma - Apotek,Ciamis,Jawa Barat,"4,2",Jonathan Thomas,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0,"0,2",6400,26051122481
+TRX4432348,05/02/2023,82636,Kimia Farma - Apotek,Palu,Sulawesi Tengah,"4,7",Jenny Snow,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0,"0,2",6400,26051122481
+TRX2737565,07/10/2023,26671,Kimia Farma - Apotek,Pangkalpinang,Bangka Belitung,"4,1",Chase Moore,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0,"0,2",6400,26051122481
+TRX2547704,16/03/2021,41085,Kimia Farma - Apotek,Padang Sidempuan,Sumatera Utara,5,Amanda Guerrero,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0,"0,2",6400,26051122481
+TRX7390898,15/08/2022,46963,Kimia Farma - Apotek,Sibolga,Sumatera Utara,"4,3",Laura Bowman,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0,"0,2",6400,26051122481
+TRX1253857,25/02/2023,16339,Kimia Farma - Apotek,Subang,Jawa Barat,"4,7",Diana Rivera,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0,"0,2",6400,26051122481
+TRX6890081,28/03/2021,47503,Kimia Farma - Apotek,Denpasar,Bali,"4,1",Corey Campos,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0,"0,2",6400,26051122481
+TRX5700726,25/02/2022,63942,Kimia Farma - Apotek,Bandung,Jawa Barat,5,Kelsey Fox,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0,"0,2",6400,26051122481
+TRX5309371,22/06/2020,52192,Kimia Farma - Apotek,Karawang,Jawa Barat,"4,2",Brandon Barber,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0,"0,2",6400,26051122481
+TRX2735782,18/02/2022,81487,Kimia Farma - Apotek,Lhokseumawe,Aceh,"4,8",Justin Fuentes,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0,"0,2",6400,26051122481
+TRX9497397,07/11/2022,28844,Kimia Farma - Apotek,Indramayu,Jawa Barat,"4,1",Jeremy Fischer,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0,"0,2",6400,26051122481
+TRX1454178,01/04/2022,50270,Kimia Farma - Apotek,Madiun,Jawa Timur,"4,5",Angel Martin,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0,"0,2",6400,26051122481
+TRX3667066,06/06/2023,79972,Kimia Farma - Apotek,Mataram,Nusa Tenggara Barat,"4,7",Andrew Jones,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0,"0,2",6400,26051122481
+TRX6930545,07/03/2021,75553,Kimia Farma - Apotek,Ciamis,Jawa Barat,"4,3",Adam Glass,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0,"0,2",6400,26051122481
+TRX6546900,26/09/2020,82095,Kimia Farma - Apotek,Tomohon,Sulawesi Utara,"4,4",Jesus Ramos,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0,"0,2",6400,26051122481
+TRX2534048,14/01/2023,65560,Kimia Farma - Apotek,Balikpapan,Kalimantan Timur,"4,7",Donald Martinez,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0,"0,2",6400,26051122481
+TRX3887597,01/02/2020,55000,Kimia Farma - Apotek,Makassar,Sulawesi Selatan,4,Erin Taylor,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0,"0,2",6400,26051122481
+TRX6545741,14/02/2022,16040,Kimia Farma - Apotek,Ciamis,Jawa Barat,"4,2",Colin Blankenship,KF955,"Psycholeptics drugs, Hypnotics and sedatives drugs",51200,"0,12","0,25",45056,26051122481
+TRX2991372,20/09/2023,96558,Kimia Farma - Apotek,Denpasar,Bali,"4,7",Melissa Fernandez,KF955,"Psycholeptics drugs, Hypnotics and sedatives drugs",51200,"0,12","0,25",45056,26051122481
+TRX6288744,26/09/2023,94743,Kimia Farma - Apotek,Semarang,Jawa Tengah,"3,9",Bobby Weaver,KF955,"Psycholeptics drugs, Hypnotics and sedatives drugs",51200,"0,12","0,25",45056,26051122481
+TRX5836598,25/01/2021,75976,Kimia Farma - Apotek,Yogyakarta,DI Yogyakarta,4,Jeffery Parker,KF955,"Psycholeptics drugs, Hypnotics and sedatives drugs",51200,"0,12","0,25",45056,26051122481
+TRX8833184,20/01/2022,96742,Kimia Farma - Apotek,Garut,Jawa Barat,"4,4",Andrea Dawson,KF955,"Psycholeptics drugs, Hypnotics and sedatives drugs",51200,"0,12","0,25",45056,26051122481
+TRX4433453,16/12/2020,75909,Kimia Farma - Apotek,Yogyakarta,DI Yogyakarta,"4,2",Cynthia Khan,KF955,"Psycholeptics drugs, Hypnotics and sedatives drugs",51200,"0,12","0,25",45056,26051122481
+TRX9881044,17/10/2022,30247,Kimia Farma - Apotek,Pariaman,Sumatera Barat,4,Luis Shannon,KF955,"Psycholeptics drugs, Hypnotics and sedatives drugs",51200,"0,12","0,25",45056,26051122481
+TRX2340818,07/06/2023,99442,Kimia Farma - Apotek,Cikampek,Jawa Barat,"4,9",Paul Coleman,KF955,"Psycholeptics drugs, Hypnotics and sedatives drugs",51200,"0,12","0,25",45056,26051122481
+TRX8112436,27/03/2020,68933,Kimia Farma - Apotek,Bogor,Jawa Barat,"4,9",Martin Campbell,KF955,"Psycholeptics drugs, Hypnotics and sedatives drugs",51200,"0,12","0,25",45056,26051122481
+TRX8106830,16/07/2023,50288,Kimia Farma - Apotek,Ternate,Maluku Utara,"4,4",Robert Porter,KF955,"Psycholeptics drugs, Hypnotics and sedatives drugs",51200,"0,12","0,25",45056,26051122481
+TRX9259867,04/04/2022,90913,Kimia Farma - Apotek,Gorontalo,Gorontalo,"4,8",Karen Lee,KF955,"Psycholeptics drugs, Hypnotics and sedatives drugs",51200,"0,12","0,25",45056,26051122481
+TRX9774784,19/04/2021,75720,Kimia Farma - Apotek,Sukabumi,Jawa Barat,"4,5",Christine Riley,KF955,"Psycholeptics drugs, Hypnotics and sedatives drugs",51200,"0,12","0,25",45056,26051122481
+TRX5895003,07/06/2023,65947,Kimia Farma - Apotek,Pontianak,Kalimantan Barat,5,Darlene Long,KF955,"Psycholeptics drugs, Hypnotics and sedatives drugs",51200,"0,12","0,25",45056,26051122481
+TRX4307432,27/03/2023,73804,Kimia Farma - Apotek,Kendari,Sulawesi Tenggara,"4,3",Mrs. Lisa Murillo,KF955,"Psycholeptics drugs, Hypnotics and sedatives drugs",51200,"0,12","0,25",45056,26051122481
+TRX1753620,02/03/2023,31365,Kimia Farma - Apotek,Cirebon,Jawa Barat,"4,4",Mary Morales,KF955,"Psycholeptics drugs, Hypnotics and sedatives drugs",51200,"0,12","0,25",45056,26051122481
+TRX5849379,23/03/2022,22526,Kimia Farma - Apotek,Jambi,Jambi,"4,3",Bradley Tanner,KF955,"Psycholeptics drugs, Hypnotics and sedatives drugs",51200,"0,12","0,25",45056,26051122481
+TRX9725096,30/10/2023,35572,Kimia Farma - Apotek,Purwakarta,Jawa Barat,"4,6",David Chambers,KF955,"Psycholeptics drugs, Hypnotics and sedatives drugs",51200,"0,12","0,25",45056,26051122481
+TRX8826520,10/12/2021,56229,Kimia Farma - Apotek,Palangkaraya,Kalimantan Tengah,"4,8",Nancy Bowman,KF955,"Psycholeptics drugs, Hypnotics and sedatives drugs",51200,"0,12","0,25",45056,26051122481
+TRX7689706,06/05/2020,87344,Kimia Farma - Apotek,Semarang,Jawa Tengah,"4,5",Jason Burnett,KF955,"Psycholeptics drugs, Hypnotics and sedatives drugs",51200,"0,12","0,25",45056,26051122481
+TRX7032252,02/06/2020,57365,Kimia Farma - Apotek,Tarakan,Kalimantan Utara,"4,2",Samantha Camacho,KF955,"Psycholeptics drugs, Hypnotics and sedatives drugs",51200,"0,12","0,25",45056,26051122481
+TRX5641244,13/12/2020,65948,Kimia Farma - Apotek,Tarakan,Kalimantan Utara,"4,4",Olivia Gray,KF955,"Psycholeptics drugs, Hypnotics and sedatives drugs",51200,"0,12","0,25",45056,26051122481
